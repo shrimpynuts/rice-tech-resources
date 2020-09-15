@@ -5,8 +5,26 @@ It's impossible to write down every piece of advice, so most of this will be lin
 
 This is mostly just advice and resources that I wish was available when I was a freshman.
 
-[link](#software-engineering)
+[SWE](#software-engineering)
+[Clubs at Rice](##rice-clubs)
 
 # Software Engineering
+
+
+# Product Management
+
+N/A
+
+# Data Science
+
+N/A
+
+
+## Rice Clubs
+
+[RiceApps](http://riceapps.org/) - Recruits software engineers, PMs, designers for app development
+[CS Club](http://csclub.rice.edu/) - Community/resources for CS majors
+[Data Science Club](https://datasci.rice.edu/) - Community/resources for studying and practicing data science
+[Design Club](__) - Community/resources for designers
 
 
