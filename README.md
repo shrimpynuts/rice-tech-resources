@@ -45,6 +45,8 @@ Resources for practicing for coding interviews:
 
 [Insider’s guide to data science and statistics at Rice](https://docs.google.com/document/d/1oh7xZY-yiFBhNTqLp_1DpTIJmonBZpRnqrH_aGTCkZs/edit?usp=sharing).
 
+## Clubs
+
 [RiceApps](http://riceapps.org/) - Recruits software engineers, PMs, designers for app development
 
 [CS Club](http://csclub.rice.edu/) - Community/resources for CS majors
