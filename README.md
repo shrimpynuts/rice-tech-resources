@@ -62,6 +62,8 @@ For example, [Pitt CS](https://github.com/Pitt-CSC) comes out with a list on the
 - Ditch the high school education
 - List personal projects with the tools/technologies used for each
 
+r/cscareerquestions has a weekly resume advice thread. Post there for tailored feedback. Here's [one from Sept 2020](https://www.reddit.com/r/cscareerquestions/comments/it3qod/resume_advice_thread_september_15_2020/)
+
 **Cover letter advice:**
 - Don't write one.
 
