@@ -6,9 +6,9 @@ It's also impossible to write down everything, so most of this will be links to 
 
 The broad career paths in tech that most Rice students have pursued:
 
-[SWE](#software-engineering)
+[Software Engineering (SWE)](#software-engineering)
 
-[Product Management](#product-management)
+[Product Management (PM)](#product-management)
 
 [Data Science](#data-science)
 
