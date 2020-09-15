@@ -4,7 +4,7 @@ A relatively comprehensive list of advice/resources regarding **recruiting/prepa
 Some is specific to Rice, and some is general.
 It's also impossible to write down everything, so most of this will be links to resources that go further in detail.
 
-Of course there are plenty of other paths and, but these are the few broad career paths in tech that most Rice students have pursued:
+The broad career paths in tech that most Rice students have pursued:
 
 [SWE](#software-engineering)
 
@@ -37,12 +37,20 @@ Someone want to contribute?
 
 ### Rice Clubs
 
+Clubs are one of the best ways to get involved at Rice.
+
 [RiceApps](http://riceapps.org/) - Recruits software engineers, PMs, designers for app development
 
 [CS Club](http://csclub.rice.edu/) - Community/resources for CS majors
 
+[RemixCS](http://remixcs.rice.edu/) - Teach CS to underrepresented minorities in Houston K-12 
+
+[HackRice](https://hack.rice.edu/) - Help organize Rice's annual hackathons
+
+[CS I/O](http://csclub.rice.edu/csio) - Serve as the middleman between Rice CS undergrads and Rice CS faculty
+
 [Data Science Club](https://datasci.rice.edu/) - Community/resources for studying and practicing data science
 
-[Design Club](__) - Community/resources for designers
+[Design Club](__) - LINK TBD, Community/resources for designers
 
 
