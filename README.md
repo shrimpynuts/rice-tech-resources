@@ -13,7 +13,7 @@ The broad career paths in tech that most Rice students have pursued:
 
 [Design](#data-science)
 
-And for those not as interested in going straight into industry and considering grad school:
+And for those considering grad school:
 
 [Grad school](#grad-school)
 
