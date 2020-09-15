@@ -1,4 +1,4 @@
-Resources regarding **recruiting/preparing for the tech industry from Rice University**.
+Resources regarding recruiting/preparing for the tech industry from Rice University.
 
 List of all [clubs](#rice-clubs).
 
