@@ -12,6 +12,8 @@ The broad career paths in tech that most Rice students have pursued:
 
 [Data Science](#data-science)
 
+[Design](#data-science)
+
 And for those not as interested in going straight into industry and considering grad school:
 
 [Grad school](#grad-school)
@@ -74,6 +76,8 @@ Resources for practicing for coding interviews:
 ## Product Management
 
 ## Data Science
+
+## Design
 
 ## Grad School
 
