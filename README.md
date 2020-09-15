@@ -37,7 +37,7 @@ Recruiting for SWE generally has three broad steps:
 **Start early.** Many job postings come out around early August, even before school begins.
 
 There are plenty of job boards out there, do your Google's for "software engineering internships github 202x".
-For example, Pitt CS comes out with a list on their github every year. Here's for [summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships).
+For example, [Pitt CS](https://github.com/Pitt-CSC) comes out with a list on their github every year. Here's for [summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships).
 
 **Use your network.** When you begin your job search, contact everyone you know in tech, including family/friends. Especially when you're a freshman/sophomore, there's a good chance your first gig will likely come from within your network.
 
