@@ -3,6 +3,10 @@
 This repo is meant to be a one-stop-shop for everything I've learned regarding **recruiting/preparing for the tech industry from Rice University**.
 It's impossible to write down every piece of advice, so most of this will be links to resources that go further in detail.
 
-This is just inspired by my experiences and mileage may vary, of course.
+This is mostly just advice and resources that I wish was available when I was a freshman.
+
+[link](#software-engineering)
+
+# Software Engineering
 
 
