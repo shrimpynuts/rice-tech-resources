@@ -21,9 +21,9 @@ And for those not as interested in going straight into industry and considering 
 
 ## Software Engineering
 
-Advice/resources for recruiting for SWE generally fall into two categories:
+Recruiting for SWE generally has three steps:
 
-1. Finding jobs
+1. [Finding jobs](#finding-jobs)
 
 2. Getting interviews
 
