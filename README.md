@@ -21,54 +21,62 @@ And for those not as interested in going straight into industry and considering 
 
 ## Software Engineering
 
-Recruiting for SWE generally has three steps:
+The [r/cscareerquestions subreddit](https://www.reddit.com/r/cscareerquestions/) has a shit ton of advice/resources. Their [FAQ page](https://www.reddit.com/r/cscareerquestions/wiki/index) is nice too if you're too lazy to ask or look for specific questions.
 
-1. [Finding jobs](#1.-finding-jobs)
+Recruiting for SWE generally has three broad steps:
 
-2. Getting interviews
+1. [Finding jobs](#1-finding-jobs)
 
-3. Succeeding at interviews
+2. [Getting interviews](#2-getting-interviews)
+
+3. [Succeeding at interviews](#3-succeeding-at-interviews)
 
 ### 1. Finding jobs
 
-There are plenty of job boards out there, do your Google's for "
+**Start early.** Many job postings come out around early August, even before school begins.
+
+There are plenty of job boards out there, do your Google's for "software engineering internships github 202x".
+For example, Pitt CS comes out with a list on their github every year. Here's [2021](https://github.com/Pitt-CSC/Summer2021-Internships).
+
+**Use your network.** When you begin your job search, contact everyone you know in tech, including family/friends. Especially when you're a freshman/sophomore, there's a good chance your first gig will likely come from within your network.
 
 ### 2. Getting interviews
 
-Resume advice:
+**Resume advice:**
+- Optimize for information that a recruiter can gain from a 10 second skim
 - One page (unless you have a long list of publications, which you probably don't)
 - Be precise
 - Ditch the high school education
 - List personal projects with the tools/technologies used for each
 
-Cover letter advice:
+**Cover letter advice:**
 - Don't write one.
+
+**Referrals**: Referrals are incredibly helpful. For the uninformed, tech companies often have internal referral systems, where existing employees can recommend you for a job.  So just like in step 1, **use your network**. This will increase your chance of getting an interview a lot.
+
 
 ### 3. Succeeding at interviews
 
-For behavioral interviews:
+For **behavioral interviews**:
 
-Behave like a normal human being.
+Be nice.
 
-For coding interviews:
+For **coding interviews**:
 
 You'll have to decide on a language your most familiar with. I would recommend Python, as COMP 140/182 give you a good foundation.
 
 Resources for practicing for coding interviews:
-- [Cracking the Coding Interview (CtCI)](https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf)
+- [Cracking the Coding Interview (CtCI)](https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf) (the Bible)
 - [Elements of Programming Interviews (EPI) for Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949) or for [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Pramp](https://www.pramp.com/dashboard) (practice live interviews with strangers)
 
 ## Product Management
 
-Someone want to contribute?
-
 ## Data Science
 
-Someone want to contribute?
-
 ## Grad School
-
-Someone want to contribute?
 
 ### Rice Clubs
 
