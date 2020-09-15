@@ -1,3 +1,6 @@
+JUST FOUND [AN AWESOME CODA](https://coda.io/@rice-csclub/rice-computer-science-guide) SETUP BY RICE CS CLUB FOR THIS KIND OF THING, DON'T READ THIS.
+
+
 Resources regarding recruiting/preparing for the tech industry from Rice University.
 
 List of all [clubs](#rice-clubs).
