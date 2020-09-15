@@ -24,7 +24,9 @@ But regardless of the career path, there is probably a club on campus for you, s
 
 The [r/cscareerquestions subreddit](https://www.reddit.com/r/cscareerquestions/) has a shit ton of advice/resources. Their [FAQ page](https://www.reddit.com/r/cscareerquestions/wiki/index) is nice too if you're too lazy to ask or look for specific questions.
 
-Recruiting for SWE generally has three broad steps:
+Here's a [huge document full of resources/advice](https://docs.google.com/document/d/1iGhuCA267Zp7vBcwSR8mzUUHvfOI7JRnK-RRoDZiJIU/edit?usp=sharing)
+
+But to be concise, recruiting for SWE generally has three broad steps:
 
 1. [Finding jobs](#1-finding-jobs)
 
@@ -36,7 +38,17 @@ Recruiting for SWE generally has three broad steps:
 
 **Start early.** Many job postings come out around early August, even before school begins.
 
-There are plenty of job boards out there, do your Google's for "software engineering internships github 202x".
+
+There are plenty of job boards out there.
+- [A "master" list](https://docs.google.com/document/d/1iGhuCA267Zp7vBcwSR8mzUUHvfOI7JRnK-RRoDZiJIU/edit?usp=sharing)
+- [>1800 companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
+- [intern.supply](https://intern.supply/)
+- [apply.fyi](https://apply.fyi/)
+- [big oofn](https://www.bigoofn.com/search)
+- [newgrad.tech](https://www.newgrad.tech/) 
+
+
+Do your Google's for "software engineering internships github 202x".
 For example, [Pitt CS](https://github.com/Pitt-CSC) comes out with a list on their github every year. Here's for [summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships).
 
 **Use your network.** When you begin your job search, contact everyone you know in tech, including family/friends. Especially when you're a freshman/sophomore, there's a good chance your first gig will likely come from within your network.
@@ -72,6 +84,7 @@ Resources for practicing for coding interviews:
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/) (LeetCode lite)
 - [Pramp](https://www.pramp.com/dashboard) (practice live interviews with strangers)
+- [a master list of github repos](https://docs.google.com/document/d/1oPs9cE5JPPF6o8ftUbk7WqGN7iqzeTEUwvRjldX0dco/edit)
 
 ## Product Management
 
