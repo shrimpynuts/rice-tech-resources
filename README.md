@@ -1,5 +1,3 @@
-# Rice Tech Careers
-
 Just some resources regarding **recruiting/preparing for the tech industry from Rice University**.
 
 Some specific to Rice, some not.
