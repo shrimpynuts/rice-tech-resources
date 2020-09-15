@@ -41,10 +41,13 @@ But to be concise, recruiting for SWE generally has three broad steps:
 There are plenty of job boards out there.
 - [A "master" list](https://docs.google.com/document/d/1iGhuCA267Zp7vBcwSR8mzUUHvfOI7JRnK-RRoDZiJIU/edit?usp=sharing)
 - [>1800 companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
+- [>400 companies](https://github.com/j-delaney/easy-application)
 - [intern.supply](https://intern.supply/)
+- [>600 companies with a "not broken hiring process"](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 - [apply.fyi](https://apply.fyi/)
 - [big oofn](https://www.bigoofn.com/search)
-- [newgrad.tech](https://www.newgrad.tech/) 
+- [newgrad.tech](https://www.newgrad.tech/)
+- [>50 new grad roles (SWE/PM/Quant)](https://github.com/jonathancai11/new-grad-2021)
 
 
 Do your Google's for "software engineering internships github 202x".
