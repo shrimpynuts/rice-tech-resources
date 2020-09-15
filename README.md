@@ -1,6 +1,6 @@
 # Rice Tech Careers
 
-This is meant to be a relatively comprehensive list of advice/resources regarding **recruiting/preparing for the tech industry from Rice University**.
+A relatively comprehensive list of advice/resources regarding **recruiting/preparing for the tech industry from Rice University**.
 Some is specific to Rice, and some is general.
 It's also impossible to write down everything, so most of this will be links to resources that go further in detail.
 
