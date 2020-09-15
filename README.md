@@ -51,6 +51,6 @@ Clubs are one of the best ways to get involved at Rice.
 
 [Data Science Club](https://datasci.rice.edu/) - Community/resources for studying and practicing data science
 
-[Design Club](__) - LINK TBD, Community/resources for designers
+Design Club - LINK TBD, Community/resources for designers
 
 
