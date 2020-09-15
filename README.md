@@ -1,44 +1,12 @@
-Just some resources regarding **recruiting/preparing for the tech industry from Rice University**.
+Resources regarding **recruiting/preparing for the tech industry from Rice University**.
 
-Some specific to Rice, some not.
-It's also impossible to write down everything, so most of this will be links to resources that go further in detail.
+List of all [clubs](#rice-clubs).
 
-The broad career paths in tech that most Rice students have pursued:
-
-[Software Engineering (SWE)](#software-engineering)
-
-[Product Management (PM)](#product-management)
-
-[Data Science](#data-science)
-
-[Design](#data-science)
-
-And for those considering grad school:
-
-[Grad school](#grad-school)
-
-But regardless of the career path, there is probably a club on campus for you, see a list of all [Rice "tech" clubs](#rice-clubs).
-
-## Software Engineering
-
-The [r/cscareerquestions subreddit](https://www.reddit.com/r/cscareerquestions/) has a shit ton of advice/resources. Their [FAQ page](https://www.reddit.com/r/cscareerquestions/wiki/index) is nice too if you're too lazy to ask or look for specific questions.
+[r/cscareerquestions subreddit](https://www.reddit.com/r/cscareerquestions/) has a shit ton of advice/resources. Their [FAQ page](https://www.reddit.com/r/cscareerquestions/wiki/index).
 
 Here's a [huge document full of resources/advice](https://docs.google.com/document/d/1iGhuCA267Zp7vBcwSR8mzUUHvfOI7JRnK-RRoDZiJIU/edit?usp=sharing)
 
-But to be concise, recruiting for SWE generally has three broad steps:
-
-1. [Finding jobs](#1-finding-jobs)
-
-2. [Getting interviews](#2-getting-interviews)
-
-3. [Succeeding at interviews](#3-succeeding-at-interviews)
-
-### 1. Finding jobs
-
-**Start early.** Many job postings come out around early August, even before school begins.
-
-
-There are plenty of job boards out there.
+Job boards:
 - [A "master" list](https://docs.google.com/document/d/1iGhuCA267Zp7vBcwSR8mzUUHvfOI7JRnK-RRoDZiJIU/edit?usp=sharing)
 - [>1800 companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
 - [>400 companies](https://github.com/j-delaney/easy-application)
@@ -50,14 +18,10 @@ There are plenty of job boards out there.
 - [>50 new grad roles (SWE/PM/Quant)](https://github.com/jonathancai11/new-grad-2021)
 
 
-Do your Google's for "software engineering internships github 202x".
+Google's for "software engineering internships github 202x".
 For example, [Pitt CS](https://github.com/Pitt-CSC) comes out with a list on their github every year. Here's for [summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships).
 
-**Use your network.** When you begin your job search, contact everyone you know in tech, including family/friends. Especially when you're a freshman/sophomore, there's a good chance your first gig will likely come from within your network.
-
-### 2. Getting interviews
-
-**Resume advice:**
+**Resume:**
 - Optimize for information that a recruiter can gain from a <10 second skim
 - One page (unless you have a long list of publications, which you probably don't)
 - Be precise
@@ -66,21 +30,10 @@ For example, [Pitt CS](https://github.com/Pitt-CSC) comes out with a list on the
 
 r/cscareerquestions has a weekly resume advice thread. Post there for tailored feedback. Here's [one from Sept 2020](https://www.reddit.com/r/cscareerquestions/comments/it3qod/resume_advice_thread_september_15_2020/)
 
-**Cover letter advice:**
+**Cover letter:**
 - Don't write one.
 
 **Referrals**: Referrals are incredibly helpful. For the uninformed, tech companies often have internal referral systems, where existing employees can recommend you for a job.  So just like in step 1, **use your network**. This will increase your chance of getting an interview a lot.
-
-
-### 3. Succeeding at interviews
-
-For **behavioral interviews**:
-
-Be nice.
-
-For **coding interviews**:
-
-You'll have to decide on a language your most familiar with. I would recommend Python, as COMP 140/182 give you a good foundation.
 
 Resources for practicing for coding interviews:
 - [Cracking the Coding Interview (CtCI)](https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf) (the Bible)
@@ -90,19 +43,7 @@ Resources for practicing for coding interviews:
 - [Pramp](https://www.pramp.com/dashboard) (practice live interviews with strangers)
 - [a master list of github repos](https://docs.google.com/document/d/1oPs9cE5JPPF6o8ftUbk7WqGN7iqzeTEUwvRjldX0dco/edit)
 
-## Product Management
-
-## Data Science
-
 [Insider’s guide to data science and statistics at Rice](https://docs.google.com/document/d/1oh7xZY-yiFBhNTqLp_1DpTIJmonBZpRnqrH_aGTCkZs/edit?usp=sharing).
-
-## Design
-
-## Grad School
-
-### Rice Clubs
-
-Clubs are one of the best ways to get involved at Rice.
 
 [RiceApps](http://riceapps.org/) - Recruits software engineers, PMs, designers for app development
 
