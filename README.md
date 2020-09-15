@@ -43,7 +43,7 @@ For example, Pitt CS comes out with a list on their github every year. Here's [2
 ### 2. Getting interviews
 
 **Resume advice:**
-- Optimize for information that a recruiter can gain from a 10 second skim
+- Optimize for information that a recruiter can gain from a <10 second skim
 - One page (unless you have a long list of publications, which you probably don't)
 - Be precise
 - Ditch the high school education
