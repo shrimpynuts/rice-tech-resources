@@ -23,17 +23,17 @@ And for those not as interested in going straight into industry and considering 
 
 Recruiting for SWE generally has three steps:
 
-1. [Finding jobs](#finding-jobs)
+1. [Finding jobs](#1.-finding-jobs)
 
 2. Getting interviews
 
 3. Succeeding at interviews
 
-### Finding jobs
+### 1. Finding jobs
 
 There are plenty of job boards out there, do your Google's for "
 
-### Getting interviews
+### 2. Getting interviews
 
 Resume advice:
 - One page (unless you have a long list of publications, which you probably don't)
@@ -44,7 +44,7 @@ Resume advice:
 Cover letter advice:
 - Don't write one.
 
-### Succeeding at interviews
+### 3. Succeeding at interviews
 
 For behavioral interviews:
 
