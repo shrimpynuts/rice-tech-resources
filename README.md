@@ -91,6 +91,8 @@ Resources for practicing for coding interviews:
 
 ## Data Science
 
+[Insider’s guide to data science and statistics at Rice](https://docs.google.com/document/d/1oh7xZY-yiFBhNTqLp_1DpTIJmonBZpRnqrH_aGTCkZs/edit?usp=sharing).
+
 ## Design
 
 ## Grad School
