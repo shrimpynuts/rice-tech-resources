@@ -12,12 +12,12 @@ The broad career paths in tech that most Rice students have pursued:
 
 [Data Science](#data-science)
 
-[Clubs at Rice](#rice-clubs)
-
 
 And for those not as interested in going straight into industry and considering grad school:
 
 [Grad school](#grad-school)
+
+But regardless of the career path, there is probably a club on campus for you, see a list of all [Rice "tech" clubs](#rice-clubs).
 
 ## Software Engineering
 
@@ -36,7 +36,7 @@ Recruiting for SWE generally has three broad steps:
 **Start early.** Many job postings come out around early August, even before school begins.
 
 There are plenty of job boards out there, do your Google's for "software engineering internships github 202x".
-For example, Pitt CS comes out with a list on their github every year. Here's [2021](https://github.com/Pitt-CSC/Summer2021-Internships).
+For example, Pitt CS comes out with a list on their github every year. Here's for [summer 2021](https://github.com/Pitt-CSC/Summer2021-Internships).
 
 **Use your network.** When you begin your job search, contact everyone you know in tech, including family/friends. Especially when you're a freshman/sophomore, there's a good chance your first gig will likely come from within your network.
 
