@@ -61,8 +61,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Rice Clubs
 
 [RiceApps](http://riceapps.org/) - Recruits software engineers, PMs, designers for app development
+
 [CS Club](http://csclub.rice.edu/) - Community/resources for CS majors
+
 [Data Science Club](https://datasci.rice.edu/) - Community/resources for studying and practicing data science
+
 [Design Club](__) - Community/resources for designers
 
 
