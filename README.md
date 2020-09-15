@@ -6,7 +6,12 @@ It's impossible to write down every piece of advice, so most of this will be lin
 This is mostly just advice and resources that I wish was available when I was a freshman.
 
 [SWE](#software-engineering)
-[Clubs at Rice](##rice-clubs)
+
+[Product Management](#product-management)
+
+[Data Science](#data-science)
+
+[Clubs at Rice](#rice-clubs)
 
 ## Software Engineering
 
