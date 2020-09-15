@@ -12,7 +12,6 @@ The broad career paths in tech that most Rice students have pursued:
 
 [Data Science](#data-science)
 
-
 And for those not as interested in going straight into industry and considering grad school:
 
 [Grad school](#grad-school)
@@ -69,7 +68,7 @@ Resources for practicing for coding interviews:
 - [Cracking the Coding Interview (CtCI)](https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf) (the Bible)
 - [Elements of Programming Interviews (EPI) for Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949) or for [Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
 - [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
+- [HackerRank](https://www.hackerrank.com/) (LeetCode lite)
 - [Pramp](https://www.pramp.com/dashboard) (practice live interviews with strangers)
 
 ## Product Management
